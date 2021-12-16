@@ -1,0 +1,15 @@
+node cf.js http://aweza.chat/ 300
+
+
+
+pip3 install pysocks bs4 scapy-python3
+
+ok brother thanks now fix
+
+fox 
+
+python3 sucuriscr.py http://baxawan.com 1000 100 100
+
+chmod 777 xrayper
+
+python3 cfbypass.py
